@@ -1,0 +1,17 @@
+title: PhoenicianAnarchist's devlog
+description: "devlog covering development of projects by PhoenicianAnarchist"
+baseurl: "/"
+url: "https://phoeniciananarchist.github.io"
+
+author: PhoenicianAnarchist
+github_username: PhoenicianAnarchist
+email: phoenician.anarchist@gmail.com
+
+header_pages:
+  - about.md
+  - pages/projects.md
+
+# Build settings
+theme: minima
+plugins:
+  - jekyll-feed
