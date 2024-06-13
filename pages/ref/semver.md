@@ -2,7 +2,7 @@
 layout: page
 title: Semantic Versioning
 permalink: /ref/semver
-categories: ref semver
+categories: ref meta
 ---
 
 A version number will be in the format `<major>.<minor>.<patch>`.

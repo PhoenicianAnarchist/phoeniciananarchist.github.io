@@ -2,7 +2,7 @@
 layout: page
 title: Git Branching Strategy
 permalink: /ref/git
-categories: ref git
+categories: ref meta
 ---
 
 ## Permanent Branches
