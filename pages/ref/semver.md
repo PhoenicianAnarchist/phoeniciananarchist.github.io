@@ -5,6 +5,12 @@ permalink: /ref/semver
 categories: ref meta
 ---
 
+## References
+
+- [semver][]
+
+## Semantic Versioning
+
 A version number will be in the format `<major>.<minor>.<patch>`.
 
 - `<major>`
@@ -22,3 +28,5 @@ When one number is incremented, all subsequent numbers are reset to `0`.
 Major version `0` (`0.y.z`) is used for initial development and everything at
 this point should be considered subject to change. The public API should only
 be considered to be stable from major version `1` (`1.y.z`)onwards.
+
+[semver]: <https://semver.org/spec/v2.0.0.html>

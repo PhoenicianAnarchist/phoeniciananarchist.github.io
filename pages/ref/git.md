@@ -5,6 +5,11 @@ permalink: /ref/git
 categories: ref meta
 ---
 
+## References
+
+- nvie : [git flow][]
+- stackoverflow : [deleting branches][]
+
 ## Permanent Branches
 
 Two main branches exist, `master` and `dev`. These are long-lived branches and
@@ -127,3 +132,6 @@ The local remote-tracking branch:
 The remote branch:
 
 `git push <remote> --delete <branch>`
+
+[git flow]: <https://nvie.com/posts/a-successful-git-branching-model/>
+[deleting branches]: <https://stackoverflow.com/questions/2003505/how-do-i-delete-a-git-branch-locally-and-remotely/23961231#23961231>
